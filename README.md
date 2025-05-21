@@ -2,7 +2,7 @@
 
 <div>
   <a href="https://www.linkedin.com/in/enzodourado2025/" target="_blank"><img loading="lazy" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" target="_blank" width="50px"></a>
-  <a href = "https://mail.google.com/mail/u/1/?ogbl#inbox"><img loading="lazy" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Gmail-Light.svg" target="_blank" width="50px"></a>
+  <a href = "enzodourado.cripto@gmail.com"><img loading="lazy" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Gmail-Light.svg" target="_blank" width="50px"></a>
   <a href="https://www.instagram.com/e.dourado_/" target="_blank"><img loading="lazy" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Instagram.svg" target="_blank" width="50px"></a>
 </div>
 
