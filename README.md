@@ -7,7 +7,7 @@
 </div>
 
 ## Um pouco sobre mim...
-- Tenho 19 anos; ⌛
+- Tenho 20 anos; ⌛
 - Moro em São Paulo/ZL; 🌃
 - Curso Engenharia de Software na FIAP; 📕
 - Gosto muito da área da programação e busco cada vez mais me aprimorar e buscar novos desafios. 🧨
